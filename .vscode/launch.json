@@ -1,0 +1,113 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodChaining",
+            "request": "launch",
+            "mainClass": "module2.MethodChaining",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverloadingDemo",
+            "request": "launch",
+            "mainClass": "module2.OverloadingDemo",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodOverloading",
+            "request": "launch",
+            "mainClass": "module2.MethodOverloading",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Functions",
+            "request": "launch",
+            "mainClass": "module2.Functions",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ContinueDemo",
+            "request": "launch",
+            "mainClass": "ContinueDemo",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwitchCaseDemo",
+            "request": "launch",
+            "mainClass": "SwitchCaseDemo",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwitcCaseDemo",
+            "request": "launch",
+            "mainClass": "SwitcCaseDemo",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loops",
+            "request": "launch",
+            "mainClass": "Loops"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Conditions",
+            "request": "launch",
+            "mainClass": "Conditions"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LogicalOperators",
+            "request": "launch",
+            "mainClass": "LogicalOperators"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringArgs",
+            "request": "launch",
+            "mainClass": "StringArgs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArithmeticOperators",
+            "request": "launch",
+            "mainClass": "ArithmeticOperators"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiDimentionArray",
+            "request": "launch",
+            "mainClass": "MultiDimentionArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiDimensionArray",
+            "request": "launch",
+            "mainClass": "MultiDimensionArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiDimension",
+            "request": "launch",
+            "mainClass": "MultiDimension"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDemo",
+            "request": "launch",
+            "mainClass": "ArrayDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
