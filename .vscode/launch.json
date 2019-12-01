@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Reference",
+            "request": "launch",
+            "mainClass": "module2.Reference",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringBufferDemo",
             "request": "launch",
             "mainClass": "module2.StringBufferDemo",
