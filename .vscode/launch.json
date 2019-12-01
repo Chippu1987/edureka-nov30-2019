@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringDemo",
+            "request": "launch",
+            "mainClass": "module2.StringDemo",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CallByReference",
             "request": "launch",
             "mainClass": "module2.CallByReference",
