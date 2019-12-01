@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CallByReference",
+            "request": "launch",
+            "mainClass": "module2.CallByReference",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CallByValue",
+            "request": "launch",
+            "mainClass": "module2.CallByValue",
+            "projectName": "edureka_10th_nov_c324b063"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MethodChaining",
             "request": "launch",
             "mainClass": "module2.MethodChaining",
